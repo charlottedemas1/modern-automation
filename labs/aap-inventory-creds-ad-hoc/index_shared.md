@@ -70,7 +70,10 @@ We need to configure the Ansible Automation Platform with the Controller SSH Pri
 
 
 
-In VS Code open `lab.pem` and copy the entire key (including “BEGIN” and “END” lines).
+In the VS Code window that is connected to the Controller, expand `.ssh` and click `id_rsa`
+ 
+Copy the **complete private key** (including “BEGIN” and “END” lines) and save it for the next step.
+ 
 
 
 
