@@ -31,3 +31,15 @@ Lab 12: [Connect to Ansible Controller](labs/setup/index.md)
 Lab 13: [Ansible inventory](labs/inventory)    
 Lab 14: [Ansible ad-hoc](labs/ad-hoc)    
 Lab 15: [Ansible playbook fundamentals](labs/playbook-fun)    
+
+### Day 4
+Lab 16: [Ansible roles](labs/roles/)
+Lab 17: [AAP inventory and credentials](labs/aap-inventory-creds-ad-hoc/index_shared.md)
+Lab 18: [AAP projects and jobs](labs/aap-projects-templates-jobs/index_shared.md)
+
+### Day 5
+Lab 19: [Ansible Playbook Error Handling](labs/error-handling/)
+Lab 20: [Ansible Templating](labs/templates/)
+Lab 21: [Write an Ansible module](labs/gh_module/)
+Lab 22: [AAP Surveys](labs/aap-surveys/)
+Lab 23: [AAP Workflows](labs/aap-workflows/)
