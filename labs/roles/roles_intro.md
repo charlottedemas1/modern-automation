@@ -180,8 +180,8 @@ Create an `inventory` file containing the following:
 ```
 localhost
 [webservers]
-node1 ansible_host=<IP of node1 from spreadsheet> 
-node2 ansible_host=<IP of node2 from spreadsheet> 
+node1 ansible_host=<IP of TargetNode-1 from /home/ansible/inventory/inventory.yaml>
+node2 ansible_host=<IP of TargetNode-2 from /home/ansible/inventory/inventory.yaml>
 ```
 
 
