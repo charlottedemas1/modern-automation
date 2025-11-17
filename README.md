@@ -15,7 +15,7 @@ Lab 3: [AWS Setup](labs/setup.md)
 
 ### Day 2
 Lab 1: [Terraform Setup](labs/tf-setup/index.md)   
-Lab 2: [Terraform First Instance](labs/tf-first-instance/index.md)
+Lab 2: [Terraform First Instance](labs/tf-first-instance/index.md)  
 Lab 3: [Terraform Variables and Outputs](labs/tf-variables-and-output/index.md)   
 Lab 4: [Terraform Multi-Resource Deployment](labs/tf-more-variables/index.md)   
 Lab 5: [Strings, bool, and numbers](labs/tf-even-more-variables)   
